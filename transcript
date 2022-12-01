@@ -1,0 +1,45 @@
+# Reading pref.tcl
+# Loading project AHB_APB_INTERFACE0.5
+cd C:/Users/jayar/Downloads
+# reading C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini
+cd C:/intelFPGA/20.1
+# Loading project AHB_APB_INTERFACE0.5
+# Compile of TOP_MODULE.v was successful.
+vsim -gui work.top
+# vsim -gui work.top 
+# Start time: 14:00:08 on Dec 01,2022
+# Loading work.top
+# Loading work.ahb_master
+# Loading work.bridge_top
+# Loading work.ahb_slave_interface
+# Loading work.apb_controller
+# Loading work.apb_interface
+add wave -position insertpoint sim:/top/*
+run -all
+add wave -position insertpoint sim:/top/ahb/*
+add wave -position insertpoint sim:/top/bridge/ahb_sl/*
+add wave -position insertpoint sim:/top/bridge/apb_c/*
+add wave -position insertpoint sim:/top/apb/*
+run -all
+# Compile of TOP_MODULE.v was successful.
+vsim -gui work.top
+# End time: 14:06:12 on Dec 01,2022, Elapsed time: 0:06:04
+# Errors: 0, Warnings: 3
+# vsim -gui work.top 
+# Start time: 14:06:12 on Dec 01,2022
+# Loading work.top
+# Loading work.ahb_master
+# Loading work.bridge_top
+# Loading work.ahb_slave_interface
+# Loading work.apb_controller
+# Loading work.apb_interface
+add wave -position insertpoint sim:/top/*
+add wave -position insertpoint sim:/top/ahb/*
+add wave -position insertpoint sim:/top/bridge/ahb_sl/*
+add wave -position insertpoint sim:/top/bridge/apb_c/*
+add wave -position insertpoint sim:/top/apb/*
+run -all
+# Break key hit
+# Break in Module ahb_slave_interface at C:/intelFPGA/20.1/AHB_SLAVE_INTERFACE.v line 5
+# End time: 14:10:02 on Dec 01,2022, Elapsed time: 0:03:50
+# Errors: 0, Warnings: 2

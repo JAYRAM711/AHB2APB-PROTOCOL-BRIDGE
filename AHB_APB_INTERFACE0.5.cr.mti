@@ -1,0 +1,43 @@
+C:/intelFPGA/20.1/BRIDGE_TOP.v {1 {vlog -work work -stats=none C:/intelFPGA/20.1/BRIDGE_TOP.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module bridge_top
+
+Top level modules:
+	bridge_top
+
+} {} {}} C:/intelFPGA/20.1/APB_INTERFACE.v {1 {vlog -work work -stats=none C:/intelFPGA/20.1/APB_INTERFACE.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module apb_interface
+
+Top level modules:
+	apb_interface
+
+} {} {}} C:/intelFPGA/20.1/TOP_MODULE.v {1 {vlog -work work -stats=none {C:\intelFPGA\20.1\TOP_MODULE.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/intelFPGA/20.1/AHB_SLAVE_INTERFACE.v {1 {vlog -work work -stats=none C:/intelFPGA/20.1/AHB_SLAVE_INTERFACE.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ahb_slave_interface
+
+Top level modules:
+	ahb_slave_interface
+
+} {} {}} C:/intelFPGA/20.1/AHB_MASTER.v {1 {vlog -work work -stats=none C:/intelFPGA/20.1/AHB_MASTER.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ahb_master
+
+Top level modules:
+	ahb_master
+
+} {} {}} C:/intelFPGA/20.1/APB_CONTROLLER.v {1 {vlog -work work -stats=none C:/intelFPGA/20.1/APB_CONTROLLER.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module apb_controller
+
+Top level modules:
+	apb_controller
+
+} {} {}}
