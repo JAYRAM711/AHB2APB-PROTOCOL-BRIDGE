@@ -8,8 +8,10 @@ AHB-APB BRIDGE INTERFACE ARCHITECTURE:
 
 SIMULATED OUTPUT:
 
-READ OPERATION:
-![image](https://user-images.githubusercontent.com/119591230/205056044-9c2773b9-3429-4732-a557-e8022282fb10.png)
-
 WRITE OPERATION:
-![image](https://user-images.githubusercontent.com/119591230/205056127-794f8b0f-72c9-4a59-8915-f9c8a70cf37b.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/119591230/205060178-eab0e509-fe7a-4cac-b6a4-ad319cdd3278.png)
+
+
+READ OPERATION:
+![Screenshot (11)](https://user-images.githubusercontent.com/119591230/205060200-0d3d9d83-e52b-4ea7-91b4-e8d76e2c2e35.png)
+
